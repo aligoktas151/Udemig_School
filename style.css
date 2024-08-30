@@ -38,7 +38,7 @@
     min-height: 100vh;
 /* minimum yükseklik belirler. vh ise açılır pencerenin 100%ü demektir.*/
 
-  background:linear-gradient(rgba(5,10,30,0.7),rgba(5,10,30,0.7)), url(./bg.webp); /* arkaplana resim ekleme */
+  background:linear-gradient(rgba(5,10,30,0.7),rgba(5,10,30,0.7)), url(./images/bg.webp); /* arkaplana resim ekleme */
   background-size: cover;/* resim arkaplanı kaplasın */
   background-position: center;/* arkaplan rengini tam ortala */
   /* linear-gradient() 2 renk arası geçiş yapmayı sağlar */
@@ -218,7 +218,7 @@ padding: 10px;
 /* Contact Alanı */
 
 .ua{ 
-    background: linear-gradient(rgba(5,10,30,0.7), rgba(5,10,30,0.7)), url(./london.jpeg);
+    background: linear-gradient(rgba(5,10,30,0.7), rgba(5,10,30,0.7)), url(./images/london.jpeg);
     background-position: center;
   background-size: cover;
  padding:  100px 0;
